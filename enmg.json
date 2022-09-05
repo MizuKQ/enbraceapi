@@ -2,329 +2,529 @@
 
 "I1": [
     {
-      "HINT": "Y ␣ ␣ ␣",
-      "NAME": "YOON",
-      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110437610225664/STAYCYoon.png"
+      "HINT": "Y\`()()()()()\`",
+      "NAME": "YONGHA",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016021061722198086/001.png?width=502&height=703"
     }
   ],
 
 "I2": [
     {
-      "HINT": "M ␣ ␣ ␣ ␣ ␣",
-      "NAME": "MIYEON",
-      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110437891211284/GIDLEMiyeon.png"
+      "HINT": "J\`()()()()()\1",
+      "NAME": "JUNSEO",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016021095020777613/002.png?width=502&height=703"
     }
   ],
     
 "I3": [
     {
-      "HINT": "L ␣ ␣",
-      "NAME": "LIA",
-      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110438130294815/ITZYLia.png"
+      "HINT": "D\`()()()()()()()\`",
+      "NAME": "DAEHYEON",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016021129003028560/003.png?width=502&height=703"
     }
   ],
 
 "I4": [
     {
-      "HINT": "M ␣ ␣ ␣ ␣",
-      "NAME": "MINJU",
-      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110438394552320/IZONEMinju.png"
+      "HINT": "S\`()()()()()()\`",
+      "NAME": "SEOKHWA",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016024610233405611/004.png?width=502&height=703"
     }
   ],
     
 "I5": [
     {
-      "HINT": "K ␣ ␣\n W ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "KIM WOOSEOK",
-      "IMAGE": "https://cdn.discordapp.com/attachments/884116364841852979/915110438633607198/SoloistKimWooseok.png"
+      "HINT": "Y\`()()()()\`",
+      "NAME": "YOHAN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016024650125414451/005.png?width=502&height=703"
     }
   ],
 
 "I6": [
     {
-      "HINT": "K ␣ ␣ ␣ ␣",
-      "NAME": "KEEHO",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915260460725600336/P1HarmonyKeeho.png"
+      "HINT": "D\`()()()()\`",
+      "NAME": "DAWON",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016024828932804638/007.png?width=502&height=703"
     }
   ],
 
 "I7": [
     {
-      "HINT": "J ␣ ␣ ␣ ␣",
-      "NAME": "JIMIN",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915260460973035541/BTSJimin.png"
+      "HINT": "Y\`()()()()()()\`",
+      "NAME": "YEORUEM",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016025146391277649/008.png?width=502&height=703"
     }
   ],
 
 "I8": [
     {
-      "HINT": "N ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "NINGNING",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915261089736962048/aespaNingNing.png"
+      "HINT": "Y\`()()()()()()()",
+      "NAME": "YEONJUNG",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016025538655178772/009.png?width=502&height=703"
     }
   ],
 
 "I9": [
     {
-      "HINT": "␣ ␣ ␣",
-      "NAME": "KAI",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915260461203746887/EXOKai.png"
+      "HINT": "S\`()()()()()\`",
+      "NAME": "SOOBIN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016026277922218004/010.png?width=502&height=703"
     }
   ],
 
 "I11": [
     {
-      "HINT": "Y ␣ ␣ ␣",
-      "NAME": "YERI",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191874010742784/Yeri.png"
+      "HINT": "D\`()()()()()()\`",
+      "NAME": "DAYOUNG",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016026620169035806/011.png?width=502&height=703"
     }
   ],
 
 "I12": [
     {
-      "HINT": "T ␣ ␣ ␣",
-      "NAME": "THE8",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191874195288084/The8.png"
+      "HINT": "B\`()()()\`",
+      "NAME": "BONA",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016028430300622979/012.png?width=502&height=703"
     }
   ],
 
 "I10": [
     {
-      "HINT": "C ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "CHAERYEONG",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/915260461472170054/ITZYChaeryeong.png"
+      "HINT": "L\`()()()\`",
+      "NAME": "LUDA",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016031257634803864/013.png?width=502&height=703"
     }
   ],
 
 "I13": [
     {
-      "HINT": "B ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "BEOMGYU",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191874677608448/Beomgyu.png"
+      "HINT": "S\`()()()()\`",
+      "NAME": "SEOLA",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016031431341899797/016.png?width=502&height=703"
     }
   ],
 
 "I14": [
     {
-      "HINT": "C ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "CHOERRY",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191874950250536/Choerry.png"
+      "HINT": "E\`()()\`",
+      "NAME": "EXY",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016031518235295814/015.png?width=502&height=703"
     }
   ],
 
 "I15": [
     {
-      "HINT": "G ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "GAHYEON",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191875193524234/Gahyeon.png"
+      "HINT": "E\`()()()()()\`",
+      "NAME": "EUNSEO",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016031571788189826/014.png?width=502&height=703"
     }
   ],
 
 "I16": [
     {
-      "HINT": "H ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "HANDONG",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191875617132574/Handong.png"
+      "HINT": "I\`()()()()\`",
+      "NAME": "INTAK",
+      "IMAGE": "hhttps://media.discordapp.net/attachments/1016014468230164590/1016032278972997744/Untitled370_20220904223906.png?width=502&height=703"
     }
   ],
 
 "I17": [
     {
-      "HINT": "H ␣ ␣ ␣ ␣ ␣",
-      "NAME": "HEEJIN",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191875940089856/Heejin.png"
+      "HINT": "T\`()()()()()\`",
+      "NAME": "TAEMIN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033396339773450/template3_20220904131139.png?width=502&height=703"
     }
   ],
 
 "I18": [
     {
-      "HINT": "␣.␣",
-      "NAME": "I.N",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191876233699368/IN.png"
+      "HINT": "\`()()\`",
+      "NAME": "MJ",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033497766437037/template3_20220904124703.png?width=502&height=703"
     }
   ],
 
 "I19": [
     {
-      "HINT": "R ␣ ␣ ␣",
-      "NAME": "ROSE",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191877085163591/Rose.png"
+      "HINT": "J\`()()()()()\`",
+      "NAME": "JINJIN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033543652134942/template3_20220904124650.png?width=502&height=703"
     }
   ],
 
 "I20": [
     {
-      "HINT": "S ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "SHOTARO",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191877387128892/Shotaro.png"
+      "HINT": "E\`()()()()()\`",
+      "NAME": "EUNWOO",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033574685782076/template3_20220904124714.png?width=502&height=703"
     }
   ],
 
 "I21": [
     {
-      "HINT": "T ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "TAEYEON",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/916191877760426044/Taeyeon.png"
+      "HINT": "M\`()()()()()()\`",
+      "NAME": "MOONBIN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033614804299868/template3_20220904124725.png?width=502&height=703"
     }
   ],
 
 "I22": [
     {
-      "HINT": "C ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "CHAEWON",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095649027268708/Chaewon.png"
+      "HINT": "R\`()()()()\`",
+      "NAME": "ROCKY",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033655241580705/template3_20220904124741.png?width=502&height=703"
     }
   ],
 
 "I23": [
     {
-      "HINT": "C ␣ ␣ ␣\n ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "CHOI HYUNSUK",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095649434107934/ChoiHyunsuk.png"
+      "HINT": "S\`()()()()\`",
+      "NAME": "SANHA",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033686455582730/template3_20220904124822.png?width=502&height=703"
     }
   ],
 
 "I24": [
     {
-      "HINT": "D ␣ ␣ ␣ ␣ ␣",
-      "NAME": "DAEHWI",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095649794834462/Daehwi.png"
+      "HINT": "K\`()()\`",
+      "NAME": "KUN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033719380881408/template3_20220904125549.png?width=502&height=703"
     }
   ],
 
 "I25": [
     {
-      "HINT": "D ␣ ␣ ␣ ␣ ␣",
-      "NAME": "DAHYUN",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095650038108180/Dahyun.png"
+      "HINT": "T\`()()\`",
+      "NAME": "TEN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033745666584686/template3_20220904125557.png?width=502&height=703"
     }
   ],
 
 "I26": [
     {
-      "HINT": "E ␣ ␣ ␣ ␣ ␣",
-      "NAME": "EUNBIN",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095650293964820/Eunbin.png"
+      "HINT": "X\`()()()()()()\`",
+      "NAME": "XIAOJUN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033781452394588/template3_20220904125610.png?width=502&height=703"
     }
   ],
 
 "I27": [
     {
-      "HINT": "E ␣ ␣ ␣ ␣ ␣",
-      "NAME": "EUNWOO",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095650591748170/Eunwoo.png"
+      "HINT": "L\`()()()()\`",
+      "NAME": "LUCAS",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033816516771992/template3_20220904125628.png?width=502&height=703"
     }
   ],
 
 "I28": [
     {
-      "HINT": "F ␣ ␣ ␣ ␣",
-      "NAME": "FELIX",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095650864398387/Felix.png"
+      "HINT": "H\`()()()()()()\`",
+      "NAME": "HENDERY",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016033877506150530/template3_20220904125641.png?width=502&height=703"
     }
   ],
 
 "I29": [
     {
-      "HINT": "H ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "HAYOUNG",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095651183161384/Hayoung.png"
+      "HINT": "Y\`()()()()()()()\`",
+      "NAME": "YANGYANG",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034011224739993/template3_20220904125654.png?width=502&height=703"
     }
   ],
 
 "I30": [
     {
-      "HINT": "H ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "HONGJOONG",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095651459981332/Hongjoong.png"
+      "HINT": "W\`()()()()()\`",
+      "NAME": "WINWIN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034040521949214/template3_20220904125707.png?width=502&height=703"
     }
   ],
 
 "I31": [
     {
-      "HINT": "H ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "HYEONGJUN",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095651808088164/Hyeongjun.png"
+      "HINT": "M\`()()()\`",
+      "NAME": "MARK",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034067176767540/template3_20220904130505.png?width=502&height=703"
     }
   ],
 
 "I32": [
     {
-      "HINT": "J ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "JAEHYUN",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095676650954782/Jaehyun.png"
+      "HINT": "R\`()()()()()\`",
+      "NAME": "RENJUN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034105609162792/template3_20220904130517.png?width=502&height=703"
     }
   ],
 
 "I33": [
     {
-      "HINT": "J ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "JEONGHAN",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095676940353586/Jeonghan.png"
+      "HINT": "J\`()()()\`",
+      "NAME": "JENO",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034125498560613/template3_20220904130533.png?width=502&height=703"
     }
   ],
 
 "I34": [
     {
-      "HINT": "J ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "JUNGKOOK",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095677254959104/Jungkook.png"
+      "HINT": "H\`()()()()()()\`",
+      "NAME": "HAECHAN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034181077278830/template3_20220904130544.png?width=502&height=703"
     }
   ],
 
 "I35": [
     {
-      "HINT": "M ␣ ␣",
-      "NAME": "MIA",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095677506609212/Mia.png"
+      "HINT": "J\`()()()()()\`",
+      "NAME": "JAEMIN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034236072988775/template3_20220904130559.png?width=502&height=703"
     }
   ],
 
 "I36": [
     {
-      "HINT": "M ␣ ␣ ␣",
-      "NAME": "MOMO",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095677783437412/Momo.png"
+      "HINT": "C\`()()()()()\`",
+      "NAME": "CHENLE",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034256683815052/template3_20220904130610.png?width=502&height=703"
     }
   ],
 
 "I37": [
     {
-      "HINT": "S ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "SEUNGHUN",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095678043463780/Seunghun.png"
+      "HINT": "J\`()()()()()\`",
+      "NAME": "JISUNG",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034284672405604/template3_20220904130622.png?width=502&height=703"
     }
   ],
 
 "I38": [
     {
-      "HINT": "S ␣ ␣ ␣ ␣ ␣",
-      "NAME": "SOOBIN",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095678307696700/Soobin.png"
+      "HINT": "K\`()()()()()\`",
+      "NAME": "KARINA",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034510623752192/template3_20220904131206.png?width=502&height=703"
     }
   ],
 
 "I39": [
     {
-      "HINT": "T ␣ ␣ ␣",
-      "NAME": "THEO",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095678567759912/Theo.png"
+      "HINT": "G\`()()()()()()\`",
+      "NAME": "GISELLE",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034578147835984/template3_20220904131221.png?width=502&height=703"
     }
   ],
 
 "I40": [
     {
-      "HINT": "W ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "WONYOUNG",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095678819414076/Wonyoung.png"
+      "HINT": "W\`()()()()()\`",
+      "NAME": "WINTER",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034610469142638/template3_20220904131234.png?width=502&height=703"
     }
   ],
 
 "I41": [
     {
-      "HINT": "Y ␣ ␣ ␣ ␣",
-      "NAME": "YUNHO",
-      "IMAGE": "https://cdn.discordapp.com/attachments/915200669433085962/934095679226257419/Yunho.png"
+      "HINT": "N\`()()()()()()()\`",
+      "NAME": "NINGNING",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016034658821095465/template3_20220904131250.png?width=502&height=703"
+    }
+  ],
+
+"I42": [
+    {
+      "HINT": "Y\`()()()()()()\`",
+      "NAME": "YEONHEE",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016035356354818048/017.png?width=502&height=703"
+    }
+  ],
+
+"I43": [
+    {
+      "HINT": "D\`()()()()()\`",
+      "NAME": "DAHYUN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016035402760605757/018.png?width=502&height=703"
+    }
+  ],
+
+"I44": [
+    {
+      "HINT": "Y\`()()()()()()()()\`",
+      "NAME": "YUNKYOUNG",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016035490765476000/019.png?width=502&height=703"
+    }
+  ],
+
+"I45": [
+    {
+      "HINT": "S\`()()()()\`",
+      "NAME": "SOHEE",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016035596952670208/020.png?width=502&height=703"
+    }
+  ],
+
+"I46": [
+    {
+      "HINT": "J\`()()()\`",
+      "NAME": "JURI",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016035688304623676/022.png?width=502&height=703"
+    }
+  ],
+
+"I47": [
+    {
+      "HINT": "S\`()()()()\`",
+      "NAME": "SUYUN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016035719292129320/021.png?width=502&height=703"
+    }
+  ],
+
+"I48": [
+    {
+      "HINT": "E\`()()()()\`",
+      "NAME": "EUNBI",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016036444218863707/023.png?width=502&height=703"
+    }
+  ],
+
+"I49": [
+    {
+      "HINT": "S\`()()()\`",
+      "NAME": "SWAN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016037733384327259/024.png?width=502&height=703"
+    }
+  ],
+
+"I50": [
+    {
+      "HINT": "J\`()()()()\`",
+      "NAME": "JIEUN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016037773976809582/025.png?width=502&height=703"
+    }
+  ],
+
+"I51": [
+    {
+      "HINT": "N\`()\n\` G\`()()()()\`",
+      "NAME": "NA GOEUN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016037812883177502/026.png?width=502&height=703"
+    }
+  ],
+
+"I52": [
+    {
+      "HINT": "D\`()()()()\`",
+      "NAME": "DOSIE",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016037856772378734/027.png?width=502&height=703"
+    }
+  ],
+
+"I53": [
+    {
+      "HINT": "S\`()()()\`",
+      "NAME": "SOUL",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016038162625204224/Untitled370_20220904225815.png?width=502&height=703"
+    }
+  ],
+
+"I54": [
+    {
+      "HINT": "I\`()()()\`",
+      "NAME": "IREH",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016039371041939456/028.png?width=502&height=703"
+    }
+  ],
+
+"I55": [
+    {
+      "HINT": "C\`()()()()()\`",
+      "NAME": "CHAEIN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016039407825993819/030.png?width=502&height=703"
+    }
+  ],
+
+"I56": [
+    {
+      "HINT": "Y\`()()()\`",
+      "NAME": "YUKI",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016039409486942208/029.png?width=502&height=703"
+    }
+  ],
+
+"I57": [
+    {
+      "HINT": "M\`()()()()\`",
+      "NAME": "MINJI",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016039843450589194/Untitled25_20220904202406.png?width=502&height=703"
+    }
+  ],
+
+"I58": [
+    {
+      "HINT": "H\`()()()()\`",
+      "NAME": "HANNI",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016039932223045672/Untitled25_20220904205617.png?width=502&height=703"
+    }
+  ],
+
+"I59": [
+    {
+      "HINT": "D\`()()()()()()\`",
+      "NAME": "DANIELLE",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016040046081622088/Untitled25_20220904202423.png?width=502&height=703"
+    }
+  ],
+
+"I60": [
+    {
+      "HINT": "H\`()()()()()\`",
+      "NAME": "HAERIN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016040176377667654/Untitled25_20220904205646.png?width=502&height=703"
+    }
+  ],
+
+"I61": [
+    {
+      "HINT": "H\`()()()()\`",
+      "NAME": "HYEIN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016040241263546450/Untitled25_20220904205704.png?width=502&height=703"
+    }
+  ],
+
+"I63": [
+    {
+      "HINT": "K\`()()()()()\`",
+      "NAME": "KAZUHA",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016040959680708679/Untitled25_20220904214333.png?width=502&height=703"
+    }
+  ],
+
+"I64": [
+    {
+      "HINT": "S\`()()()()()\`",
+      "NAME": "SAKURA",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016041028429561937/Untitled25_20220904211406.png?width=502&height=703"
+    }
+  ],
+
+"I65": [
+    {
+      "HINT": "C\`()()()()()()\`",
+      "NAME": "CHAEWON",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016041102291238912/Untitled25_20220904211545.png?width=502&height=703"
+    }
+  ],
+
+"I66": [
+    {
+      "HINT": "Y\`()()()()()\`",
+      "NAME": "YUNJIN",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016041164517933226/Untitled25_20220904211602.png?width=502&height=703"
+    }
+  ],
+
+"I67": [
+    {
+      "HINT": "E\`()()()()()()\`",
+      "NAME": "EUNCHAE",
+      "IMAGE": "https://media.discordapp.net/attachments/1016014468230164590/1016041255559499837/Untitled25_20220904211620.png?width=502&height=703"
     }
   ],
 
