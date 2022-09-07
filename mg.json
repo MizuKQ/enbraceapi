@@ -602,456 +602,731 @@
 
 "S1": [
     {
-      "HINT": "N ␣ ␣ ␣\n ␣ ␣ ␣ ␣ ␣",
-      "NAME": "NEXT LEVEL",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915200782792552458/aespaNextLevel.mp4"
+      "HINT": "IVE",
+      "NAME": "Eleven",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016449430209171506/ENbrace_-_Guess_The_Song.mp4"
     }
   ],
 
 "S2": [
     {
-      "HINT": "␣ ␣ ␣",
-      "NAME": "RUN",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915200782146605076/BTSRun.mp4"
+      "HINT": "IVE",
+      "NAME": "LOVE DIVE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016449561461526618/ENbrace_-_Guess_The_Song.mp4"
     }
   ],
 
 "S3": [
     {
-      "HINT": "W ␣ ␣ ␣\n ␣ ␣\n ␣ ␣ ␣ ␣",
-      "NAME": "WHAT IS LOVE",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915200782465368074/TWICEWhatisLove.mp4"
+      "HINT": "IVE",
+      "NAME": "AFTER LIKE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016449768765009960/ENbrace_-_Guess_The_Song.mp4"
     }
   ],
 
 "S4": [
     {
-      "HINT": "I ␣ ␣\n ␣ ␣ ␣ ␣ ␣",
-      "NAME": "ICE CREAM",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915264059581034506/BLACKPINKIceCream.mp4"
+      "HINT": "LE SSERAFIM",
+      "NAME": "FEARLESS",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016451603160641536/lv_0_20220906005431.mp4"
     }
   ],
 
 "S5": [
     {
-      "HINT": "M ␣ ␣ ␣",
-      "NAME": "MMMH",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/915264068619747348/KaiMmmh.mp4"
+      "HINT": "KEP1ER",
+      "NAME": "WADADA",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016454203142590544/lv_0_20220906010347.mp4"
     }
   ],
 
 "S6": [
     {
-      "HINT": "D ␣ ␣ ␣",
-      "NAME": "DKDK",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916188981346050099/fromis9DKDK.mp4"
+      "HINT": "KEP1ER",
+      "NAME": "UP!",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016454251553226852/lv_0_20220906010445.mp4"
     }
   ],
 
 "S7": [
     {
-      "HINT": "R ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "ROLLERCOASTER",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916188981681602570/ChunghaRollercoaster.mp4"
+      "HINT": "KEP1ER",
+      "NAME": "WING WING",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016454291004854352/lv_0_20220906010522.mp4"
     }
   ],
 
 "S8": [
     {
-      "HINT": "E ␣ ␣ ␣ ␣ ␣",
-      "NAME": "ELEVEN",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916188982021337088/IVEEleven.mp4"
+      "HINT": "YENA",
+      "NAME": "SMILEY",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016456189229416448/lv_0_20220906011247.mp4"
     }
   ],
 
 "S9": [
     {
-      "HINT": "F ␣ ␣ ␣ ␣",
-      "NAME": "FIRST",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916188982440783882/EVERGLOWFirst.mp4"
+      "HINT": "YENA",
+      "NAME": "SMARTPHONE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016456224201527316/lv_0_20220906011324.mp4"
     }
   ],
 
 "S10": [
     {
-      "HINT": "L ␣ ␣ ␣",
-      "NAME": "LOCO",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916188982742765578/ITZYLoco.mp4"
+      "HINT": "EUNBI",
+      "NAME": "DOOR",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016458467839578232/lv_0_20220906012117.mp4"
     }
   ],
 
 "S11": [
     {
-      "HINT": "K ␣\n ␣ ␣\n ␣ ␣ ␣",
-      "NAME": "KO KO BOP",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916189007434637342/EXOKokobop.mp4"
+      "HINT": "EUNBI",
+      "NAME": "GLITCH",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016458509430300812/lv_0_20220906012218.mp4"
     }
   ],
 
 "S12": [
     {
-      "HINT": "M ␣ ␣",
-      "NAME": "MMM",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916189007812108299/TREASUREMmm.mp4"
+      "HINT": "WJSN",
+      "NAME": "LAST SEQUENCE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627241595183104/wjsn_ls.mp4"
     }
   ],
 
 "S13": [
     {
-      "HINT": "T ␣ ␣ ␣\n ␣ ␣ ␣ ␣",
-      "NAME": "TEAR DROP",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916189008105705482/SF9Teardrop.mp4"
+      "HINT": "WEI",
+      "NAME": "BYE BYE BYE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627324176838706/wei_bbb.mp4"
     }
   ],
 
 
 "S14": [
     {
-      "HINT": "P ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "PANORAMA",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/916189008466411540/IZONEPanorama.mp4"
+      "HINT": "WEI",
+      "NAME": "TOO BAD",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627369789894756/wei_tb.mp4"
     }
   ],
 
 "S15": [
     {
-      "HINT": "W ␣ \n ␣ ␣\n ␣ ␣",
-      "NAME": "WA DA DA",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029191375110164/Kep1erWaDaDa.mp4"
+      "HINT": "AB6IX",
+      "NAME": "CHERRY",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627480938958889/ab6ix_chrry.mp4"
     }
   ],
 
 "S16": [
     {
-      "HINT": "U ␣ - ␣ ␣",
-      "NAME": "UH-OH",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029191773577246/GIDLEUhOh.mp4"
+      "HINT": "AB6IX",
+      "NAME": "CLOSE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627536383451156/ab6ix_cls.mp4"
     }
   ],
 
 "S17": [
     {
-      "HINT": "␣ ␣ ␣",
-      "NAME": "ONE",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029192180408400/ASTROOne.mp4"
+      "HINT": "AB6IX",
+      "NAME": "STAY YOUNG",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627609058164796/ab6ix_sty_yng.mp4"
     }
   ],
 
 "S18": [
     {
-      "HINT": "I ␣\n ␣ ␣\n ␣ ␣ ␣ ␣",
-      "NAME": "IM SO SICK",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029192675348500/APINKImSoSick.mp4"
+      "HINT": "CIX",
+      "NAME": "458",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627681191792670/cix_458.mp4"
     }
   ],
 
 "S19": [
     {
-      "HINT": "R ␣ ␣ ␣ ␣ ␣",
-      "NAME": "ROLLIN",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029193224781874/BraveGirlsRollin.mp4"
+      "HINT": "CIX",
+      "NAME": "CINEMA",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627723977883688/cix_cnm.mp4"
     }
   ],
 
 "S20": [
     {
-      "HINT": "␣ & ␣",
-      "NAME": "Q&A",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029193749078058/CherryBulletQA.mp4"
+      "HINT": "CIX",
+      "NAME": "WAVE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627771453227089/cix_wv.mp4"
     }
   ],
 
 "S21": [
     {
-      "HINT": "␣ ␣",
-      "NAME": "NO",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029194155950100/CLCNo.mp4"
+      "HINT": "CLASS:Y",
+      "NAME": "CLASSY",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627896024055818/clssy_clssy.mp4"
     }
   ],
 
 "S22": [
     {
-      "HINT": "B ␣ ␣ ␣",
-      "NAME": "BOCA",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029194726346772/DreamcatcherBoca.mp4"
+      "HINT": "CLASS:Y",
+      "NAME": "SHUT DOWN",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016627960922505287/clssy_sht_dwn.mp4"
     }
   ],
 
 "S23": [
     {
-      "HINT": "D ␣ ␣ ␣ ␣ - ␣ ␣ ␣ ␣ ␣",
-      "NAME": "DRUNK-DAZED",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029195124801587/ENHYPENDrunkDazed.mp4"
+      "HINT": "LOONA",
+      "NAME": "FLIP THAT",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628064479879259/loona_ft.mp4"
     }
   ],
 
 "S24": [
     {
-      "HINT": "T ␣ ␣ ␣\n ␣ ␣ ␣\n ␣ ␣ ␣\n ␣ ␣ ␣ ␣\n ␣ ␣ ␣ ␣ ␣",
-      "NAME": "TIME FOR THE MOON NIGHT",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029232676417576/GFRIENDTimefortheMoonNight.mp4"
+      "HINT": "LOONA",
+      "NAME": "PAINT THE TOWN",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628128463978496/loona_ptt.mp4"
     }
   ],
 
 "S25": [
     {
-      "HINT": "B ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "BUTTERFLY",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029233011978290/LOONAButterfly.mp4"
+      "HINT": "NEWJEANS",
+      "NAME": "ATTENTION",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628205576278026/nj_attn.mp4"
     }
   ],
 
 "S26": [
     {
-      "HINT": "K ␣ ␣ ␣\n ␣ ␣",
-      "NAME": "KICK IT",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029233334943764/NCT127KickIt.mp4"
+      "HINT": "NEWJEANS",
+      "NAME": "HYPE BOY",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628255886934017/nj_hb.mp4"
     }
   ],
 
 "S27": [
     {
-      "HINT": "O ␣\n ␣ ␣",
-      "NAME": "OH MY",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029233716592670/SeventeenOhMy.mp4"
+      "HINT": "PURPLE KISS",
+      "NAME": "MEMEM",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628311910252615/purki_memem.mp4"
     }
   ],
 
 "S28": [
     {
-      "HINT": "Q ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "QUEENDOM",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029234169585714/RedVelvetQueendom.mp4"
+      "HINT": "PURPLE KISS",
+      "NAME": "NERDY",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628393510453288/purki_nerdy.mp4"
     }
   ],
 
 "S29": [
     {
-      "HINT": "S ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "STEREOTYPE",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029234568065025/STAYCStereotype.mp4"
+      "HINT": "PURPLE KISS",
+      "NAME": "PONZONA",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628434581061662/purki_ponzona.mp4"
     }
   ],
 
 "S30": [
     {
-      "HINT": "T ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "THUNDEROUS",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029234991685652/StrayKidsThunderous.mp4"
+      "HINT": "PURPLE KISS",
+      "NAME": "ZOMBIE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628482861711380/purki_zmb.mp4"
     }
   ],
 
 "S31": [
     {
-      "HINT": "B ␣ ␣ ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "BUTTERFLY",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029235440472164/WJSNButterfly.mp4"
+      "HINT": "ROCKET PUNCH",
+      "NAME": "CHIQUITA",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628544257937448/rcpc_cqt.mp4"
     }
   ],
 
 "S32": [
     {
-      "HINT": "T ␣ ␣ ␣ ␣ ␣\n ␣ ␣ ␣ ␣",
-      "NAME": "THRILL RIDE",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029235851493386/TheBoyzThrillRide.mp4"
+      "HINT": "ROCKET PUNCH",
+      "NAME": "FLASH",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628597039042581/rcpc_flsh.mp4"
     }
   ],
 
 "S33": [
     {
-      "HINT": "B ␣ ␣ ␣",
-      "NAME": "BABE",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029266553823282/HyunABabe.mp4"
+      "HINT": "ROCKET PUNCH",
+      "NAME": "RING RING",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628642345922640/rcpc_rng_rng.mp4"
     }
   ],
 
 "S34": [
     {
-      "HINT": "L ␣ ␣ ␣ ␣",
-      "NAME": "LILAC",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029266927095849/IULilac.mp4"
+      "HINT": "TRI.BE",
+      "NAME": "DOOM DOOM TA",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628706468446268/trb_ddt.mp4"
     }
   ],
 
 "S35": [
     {
-      "HINT": "D ␣ ␣ ␣\n ␣ ␣ ␣ ␣",
-      "NAME": "DUMB DUMB",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029267279421460/SOMIDumbDumb.mp4"
+      "HINT": "TRI.BE",
+      "NAME": "KISS",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628761795510404/trb_kss.mp4"
     }
   ],
 
 "S36": [
     {
-      "HINT": "C ␣ ␣ ␣ ␣",
-      "NAME": "CANDY",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029267606589450/BaekhyunCandy.mp4"
+      "HINT": "TRI.BE",
+      "NAME": "RUB A DUM",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628815524544523/trb_rbdm.mp4"
     }
   ],
 
 "S37": [
     {
-      "HINT": "R ␣ ␣ ␣ ␣ ␣",
-      "NAME": "RIBBON",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029268005052426/BamBamRibbon.mp4"
+      "HINT": "TRI.BE",
+      "NAME": "WOULD YOU RUN",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016628895400869938/trb_wyr.mp4"
     }
   ],
 
 "S38": [
     {
-      "HINT": "W ␣ ␣ ␣ ␣ ␣ ␣",
-      "NAME": "WAITING",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029268369932308/WOODZWaiting.mp4"
+      "HINT": "BLACKPINK",
+      "NAME": "PINK VENOM",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016629013734768680/bp_pv.mp4"
     }
   ],
 
 "S39": [
     {
-      "HINT": "␣ ␣ ␣\n &\n ␣ ␣ ␣",
-      "NAME": "CAT & DOG",
-      "IMAGE": "https://media.discordapp.net/attachments/915200691365085224/934029268663562260/TXTCatDog.mp4"
+      "HINT": "BLACKPINK",
+      "NAME": "READY FOR LOVE",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016629067900002324/bp_rfl.mp4"
+    }
+  ],
+
+"S40": [
+    {
+      "HINT": "JO YURI",
+      "NAME": "GLASYY",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016632056706502759/yuri_glssy.mp4"
+    }
+  ],
+
+"S41": [
+    {
+      "HINT": "JO YURI",
+      "NAME": "LOVE SHHH!",
+      "IMAGE": "https://cdn.discordapp.com/attachments/1016418526531162143/1016632108392915004/yuri_lv_shhh.mp4"
     }
   ],
 
 "T1": [
     {
-      "HINT": "Which K-Pop Music Video became the fastest video to reach 10 million in 13 minutes?",
-      "NAME": "BUTTER"
+      "HINT": "E N H □ P E N",
+      "NAME": "Y"
     }
   ],
 
 "T2": [
     {
-      "HINT": "V (Kim Taehyung), has a dog that is loved dearly by fans. What is its name?",
-      "NAME": "YEONTAN"
+      "HINT": "H E E S □ U N G",
+      "NAME": "E"
     }
   ],
 
 "T3": [
     {
-      "HINT": "Girls Planet 999's Finale was aired on October 22, 2021. Who ended up winning 1st place? (Full Name)",
-      "NAME": "KIM CHAEHYUN"
+      "HINT": "J A □",
+      "NAME": "Y"
     }
   ],
 
 "T4": [
     {
-      "HINT": "Which group was the fastest to win a music show in 5 days?",
-      "NAME": "X1"
+      "HINT": "J A □ E",
+      "NAME": "K"
     }
   ],
 
 "T5": [
     {
-      "HINT": "Street Woman Fighter shed a light to the back-up dancers in the music industry. One of these dancers however, was notoriously famous for her rendition of 'Hey Mama'. Who is this dancer?",
-      "NAME": "NOZE"
+      "HINT": "S U N G H O O □",
+      "NAME": "N"
     }
   ],
 
 "T6": [
     {
-      "HINT": "Which kpop group has been together the longest? (20 Years)",
-      "NAME": "SHINHWA"
+      "HINT": "□ U N O O",
+      "NAME": "S"
     }
   ],
 
 "T7": [
     {
-      "HINT": "What group is known as the Nations Girl Group (NGG) in South Korea?",
-      "NAME": "TWICE"
+      "HINT": "J U N G □ O N",
+      "NAME": "W"
     }
   ],
 
 "T8": [
     {
-      "HINT": "Which TWICE member was originally eliminated from the show 'Sixteen' but then became the final member of the girl group?",
-      "NAME": "MOMO"
+      "HINT": "N □ - K I",
+      "NAME": "I"
     }
   ],
 
 "T9": [
     {
-      "HINT": "Which group was the First 4th Generation Girl Group to win a daesang?",
-      "NAME": "AESPA"
+      "HINT": "N □ W J E A N S",
+      "NAME": "E"
     }
   ],
 
 "T10": [
     {
-      "HINT": "Which group was the First 4th Generation Boy Group to win a daesang?",
-      "NAME": "STRAYKIDS"
+      "HINT": "M □ N J I",
+      "NAME": "I"
     }
   ],
 
 "T11": [
     {
-      "HINT": "BTS' Dynamite is a big hit worldwide. This song has the most music show wins of all-time with [?] wins.",
-      "NAME": "32"
+      "HINT": "□ A N N I",
+      "NAME": "H"
     }
   ],
 
 "T12": [
     {
-      "HINT": "How many IU songs achieved Perfect All-Kills?",
-      "NAME": "21"
+      "HINT": "D A N I E □ L E",
+      "NAME": "L"
     }
   ],
 
 "T13": [
     {
-      "HINT": "In K-Pop, there are sudden instances where unknown groups rise to stardom. EXID has proven that in 2014. Which group rose to stardom in 2021 with their song, Rollin?",
-      "NAME": "BRAVE GIRLS"
+      "HINT": "H A E □ I N",
+      "NAME": "R"
     }
   ],
 
 "T14": [
     {
-      "HINT": "How many seasons of Produce 101 are there?",
-      "NAME": "4"
+      "HINT": "H □ E I N",
+      "NAME": "Y"
     }
   ],
 
 "T15": [
     {
-      "HINT": "Every New Year, it is a must to have a good time and enjoy the fanfare. WJSN made sure of this with their song, [?] and some even calling it the 'New Year's Anthem Song'.",
-      "NAME": "AS YOU WISH"
+      "HINT": "I □ E",
+      "NAME": "V"
     }
   ],
 
 
 "T16": [
     {
-      "HINT": "Which idol hosted the show, 'Music Bank' along with Wonyoung (IZ＊ONE)?",
-      "NAME": "SUNGHOON"
+      "HINT": "Y U J □ N",
+      "NAME": "I"
     }
   ],
 
 "T17": [
     {
-      "HINT": "Finish the sentence: 'One in a million! Hello, we are [?]'",
-      "NAME": "TWICE"
+      "HINT": "G A □ E L",
+      "NAME": "U"
     }
   ],
 
 "T18": [
     {
-      "HINT": "Finish the sentence: 'I say MAMA, MAMA, MOO. Hello, we are [?]'",
-      "NAME": "MAMAMOO"
+      "HINT": "□ O N Y O U N G",
+      "NAME": "W"
     }
   ],
 
 "T19": [
     {
-      "HINT": "What is Girls' Generation's Fandom Name?",
-      "NAME": "SONE"
+      "HINT": "□ E I",
+      "NAME": "R"
     }
   ],
 
 "T20": [
     {
-      "HINT": "How many members does NCT (2021) have? ",
-      "NAME": "23"
+      "HINT": "L □ Z ",
+      "NAME": "I"
     }
-  ]
+  ],
+
+"T21": [
+    {
+      "HINT": "L E □ S E O",
+      "NAME": "E"
+    }
+  ],
+
+"T22": [
+    {
+      "HINT": "LE   □ S E R A F  I M",
+      "NAME": "S"
+    }
+  ],
+
+"T23": [
+    {
+      "HINT": "C H □ E W O N",
+      "NAME": "A"
+    }
+  ],
+
+"T24": [
+    {
+      "HINT": "□ A K U R A",
+      "NAME": "S"
+    }
+  ],
+
+"T25": [
+    {
+      "HINT": "Y U □ J I N",
+      "NAME": "N"
+    }
+  ],
+
+"T26": [
+    {
+      "HINT": "K A Z U H □",
+      "NAME": "A"
+    }
+  ],
+
+"T27": [
+    {
+      "HINT": "E U N □ H A E",
+      "NAME": "C"
+    }
+  ],
+
+"T28": [
+    {
+      "HINT": "K E P □ E R",
+      "NAME": "1"
+    }
+  ],
+
+"T29": [
+    {
+      "HINT": "Y □ J I N",
+      "NAME": "U"
+    }
+  ],
+
+"T30": [
+    {
+      "HINT": "M A S H I R □",
+      "NAME": "O"
+    }
+  ],
+
+"T31": [
+    {
+      "HINT": "X I A □ T I N G",
+      "NAME": "O"
+    }
+  ],
+
+"T32": [
+    {
+      "HINT": "C □ A E H Y U N",
+      "NAME": "H"
+    }
+  ],
+
+"T33": [
+    {
+      "HINT": "D A □ E O N",
+      "NAME": "Y"
+    }
+  ],
+
+"T34": [
+    {
+      "HINT": "H I □ A R U",
+      "NAME": "K"
+    }
+  ],
+
+"T35": [
+    {
+      "HINT": "B A H I □ Y I H",
+      "NAME": "Y"
+    }
+  ],
+
+"T36": [
+    {
+      "HINT": "Y O U N G □ U N",
+      "NAME": "E"
+    }
+  ],
+
+"T37": [
+    {
+      "HINT": "Y □ S E O",
+      "NAME": "E"
+    }
+  ],
+
+"T39": [
+    {
+      "HINT": "THE   □ O Y Z",
+      "NAME": "B"
+    }
+  ],
+
+"T40": [
+    {
+      "HINT": "S □ N G Y E O N",
+      "NAME": "A"
+    }
+  ],
+
+"T41": [
+    {
+      "HINT": "J □ C O B",
+      "NAME": "A"
+    }
+  ],
+
+"T42": [
+    {
+      "HINT": "H Y U N □ A E",
+      "NAME": "J"
+    }
+  ],
+
+"T43": [
+    {
+      "HINT": "Y O U N G H O □ N",
+      "NAME": "O"
+    }
+  ],
+
+"T44": [
+    {
+      "HINT": "□ U Y E O N",
+      "NAME": "J"
+    }
+  ],
+
+"T45": [
+    {
+      "HINT": "K E V I □",
+      "NAME": "N"
+    }
+  ],
+
+"T46": [
+    {
+      "HINT": "N □ W",
+      "NAME": "E"
+    }
+  ],
+
+"T47": [
+    {
+      "HINT": "J U □ A K N Y E O N",
+      "NAME": "H"
+    }
+  ],
+
+"T48": [
+    {
+      "HINT": "S U N □ O O",
+      "NAME": "W"
+    }
+  ],
+
+"T49": [
+    {
+      "HINT": "E □ I C",
+      "NAME": "R"
+    }
+  ],
+
+"T50": [
+    {
+      "HINT": "A □ T R O",
+      "NAME": "S"
+    }
+  ],
+
+"T51": [
+    {
+      "HINT": "J I □ J I N",
+      "NAME": "N"
+    }
+  ],
+
+"T52": [
+    {
+      "HINT": "□ J",
+      "NAME": "M"
+    }
+  ],
+
+"T53": [
+    {
+      "HINT": "E □ N W O O",
+      "NAME": "U"
+    }
+  ],
+
+"T54": [
+    {
+      "HINT": "M O O N B □ N",
+      "NAME": "I"
+    }
+  ],
+
+"T55": [
+    {
+      "HINT": "R O □ K Y",
+      "NAME": "C"
+    }
+  ],
+
+"T56": [
+    {
+      "HINT": "S □ N H A",
+      "NAME": "A"
+    }
+  ],
+
+"T57": [
+    {
+      "HINT": "□ C T",
+      "NAME": "N"
+    }
+  ],
+
+"T58": [
+    {
+      "HINT": "T A E Y □ N G",
+      "NAME": "O"
+    }
+  ],
 
 }
